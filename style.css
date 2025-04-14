@@ -1,0 +1,44 @@
+#body{
+    background-color: #28a74600;
+    background-image: url(images/seamlessGrass.jpg);
+}
+
+.nav-pills > li > a.active {
+    background-color: #28a745c7 !important;
+    color: #ffffff !important;
+  }
+  
+  .nav-pills > li > a:hover {
+    color: #ffffff !important;
+  }
+  
+  .nav-link-color {
+    color: #ffffff;
+  }
+
+.carousel-container{
+    width: 50vw;
+}
+
+.carousel-item{
+    position: relative;
+}
+
+.bg-navbar{
+    background-color: #000000e8;
+}
+
+.bg-curb_it{
+    background-color: #28a745c7;
+}
+
+.bg-contact{
+    background-color: rgba(173, 128, 31, 0.815);
+    
+}
+
+.feature-icon{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+  }
