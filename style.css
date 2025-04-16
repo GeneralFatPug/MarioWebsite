@@ -28,6 +28,18 @@
     background-color: #000000e8;
 }
 
+.bg-contour{
+  background-color: #757575c7
+}
+
+.bg-contain{
+  background-color: #000000c7
+}
+
+.bg-create{
+  background-color: #757575c7
+}
+
 .bg-curb_it{
     background-color: #28a745c7;
 }
@@ -42,3 +54,14 @@
     height: 4rem;
     border-radius: 0.75rem;
   }
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.column{
+  float: left;
+  width: 50%;
+}
